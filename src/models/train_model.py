@@ -42,6 +42,6 @@ def training() -> None:
     plt.ylabel("Training loss")
     plt.savefig(f"reports/figures/training_curve.png")
 
-
+#testing the gcloud trigger
 if __name__ == "__main__":
     training()
