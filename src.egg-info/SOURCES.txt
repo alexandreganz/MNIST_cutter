@@ -1,5 +1,6 @@
 LICENSE
 README.md
+setup.cfg
 setup.py
 src/__init__.py
 src.egg-info/PKG-INFO
